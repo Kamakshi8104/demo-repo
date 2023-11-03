@@ -22,7 +22,7 @@
 Detecting objects and their relations in images in the form of a graph data structure and generating graphs to represent relations between objects in a given image.
 
 
-<img src=https://github.com/Kamakshi8104/demo-repo/blob/main/images/Img2.PNG/>
+<img src="/images/img2.PNG"/>
 
 ----------
 ## Implementation details of Scene Graph Generator
