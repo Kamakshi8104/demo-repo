@@ -22,7 +22,7 @@
 Detecting objects and their relations in images in the form of a graph data structure and generating graphs to represent relations between objects in a given image.
 
 
-<img src="/images/img2.PNG"/>
+<img src=https://github.com/Kamakshi8104/demo-repo/blob/main/images/Img2.PNG/>
 
 ----------
 ## Implementation details of Scene Graph Generator
@@ -47,8 +47,8 @@ Using YOLO to output the class of the objects and their bounding box coordinates
 
 
 ## Research papers:
-- [Paper on Scene Graph Generator][https://openaccess.thecvf.com/content_ECCV_2018/papers/Jianwei_Yang_Graph_R-CNN_for_ECCV_2018_paper.pdf]
-- [Paper on REPN][https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Relationship_Proposal_Networks_CVPR_2017_paper.pdf]
+- [Paper on Scene Graph Generator](https://openaccess.thecvf.com/content_ECCV_2018/papers/Jianwei_Yang_Graph_R-CNN_for_ECCV_2018_paper.pdf)
+- [Paper on REPN](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Relationship_Proposal_Networks_CVPR_2017_paper.pdf)
 
 ----------
   
