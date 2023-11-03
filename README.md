@@ -22,13 +22,13 @@
 Detecting objects and their relations in images in the form of a graph data structure and generating graphs to represent relations between objects in a given image.
 
 
-<img src="/images/img2.PNG"/>
+<img src="/images/img2.png"/>
 
 ----------
 ## Implementation details of Scene Graph Generator
 
 
-<img src="/images/img1.PNG"/>
+<img src="/images/img1.png"/>
 
 ---
 ## YOLO to detect object
