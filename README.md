@@ -4,16 +4,16 @@
 
 
 -[Project](Scene Graph Generator)
-  - [Table of Contents][#table-of-contents]
-  - [About The Project][#about-the-project]
-  - [Implementation details][#Implementation-details-of-Scene-Graph-Generator]
-  - [Research papers][#Research-papers]
-  - [Domains Explored][#Domains-Explored]
-  - [Project Workflow][#Project-Workflow]
-  - [Future Work][#future-work]
-  - [Courses Referred][#Courses-Referred]
-  - [Contributors][#contributors]
-  - [Acknowledgements and Resources][#acknowledgements-and-references]
+  - [Table of Contents](#table-of-contents)
+  - [About The Project](#about-the-project)
+  - [Implementation details](#implementation-details-of-Scene-Graph-Generator)
+  - [Research papers](#Research-papers)
+  - [Domains Explored](#Domains-Explored)
+  - [Project Workflow](#Project-Workflow)
+  - [Future Work](#future-work)
+  - [Courses Referred](#Courses-Referred)
+  - [Contributors](#contributors)
+  - [Acknowledgements and Resources](#acknowledgements-and-references)
 
 
 ----------
