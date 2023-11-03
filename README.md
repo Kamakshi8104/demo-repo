@@ -4,16 +4,16 @@
 
 
 -[Project](Scene Graph Generator)
-  - [Table of Contents](#table-of-contents)
-  - [About The Project](#about-the-project)
-  - [Implementation details of Scene Graph Generator ] (#implementation-of-scene-graph-generator)
-  - [Research papers] (#Research-papers)
-  - [Domains Explored] (#Domains-Explored)
-  - [Project Workflow](#Project-Workflow)
-  - [Future Work](#future-work)
-  - [Courses Referred] (#Courses-Referred)
-  - [Contributors](#contributors)
-  - [Acknowledgements and Resources](#acknowledgements-and-references)
+  - [Table of Contents][#table-of-contents]
+  - [About The Project][#about-the-project]
+  - [Implementation details][#Implementation-details-of-Scene-Graph-Generator]
+  - [Research papers][#Research-papers]
+  - [Domains Explored][#Domains-Explored]
+  - [Project Workflow][#Project-Workflow]
+  - [Future Work][#future-work]
+  - [Courses Referred][#Courses-Referred]
+  - [Contributors][#contributors]
+  - [Acknowledgements and Resources][#acknowledgements-and-references]
 
 
 ----------
@@ -22,20 +22,19 @@
 Detecting objects and their relations in images in the form of a graph data structure and generating graphs to represent relations between objects in a given image.
 
 
-<img src="/images/img2.PNG" width="700"/>
+<img src="/images/img2.PNG"/>
 
 ----------
-
 ## Implementation details of Scene Graph Generator
 
 
-<img src="/images/img1.PNG" width="700"/>
+<img src="/images/img1.PNG"/>
 
 ---
-## **YOLO to detect object**
+## YOLO to detect object
 Using YOLO to output the class of the objects and their bounding box coordinates to get their location in the image.
 
-## **Relationship Proposal network**
+## Relationship Proposal network
 - Creating a 2D array of all the objects detected which contains the word2vec embeddings of the class plus the four bounding box coordinates.
 - Passing the input array through two identical neural networks to obtain the key and query matrix
 - Multiplying the key and query matrices to generate an attention matrix
@@ -48,8 +47,8 @@ Using YOLO to output the class of the objects and their bounding box coordinates
 
 
 ## Research papers:
-- [Paper on Scene Graph Generator] (https://openaccess.thecvf.com/content_ECCV_2018/papers/Jianwei_Yang_Graph_R-CNN_for_ECCV_2018_paper.pdf)
-- [Paper on REPN] (https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Relationship_Proposal_Networks_CVPR_2017_paper.pdf)
+- [Paper on Scene Graph Generator][https://openaccess.thecvf.com/content_ECCV_2018/papers/Jianwei_Yang_Graph_R-CNN_for_ECCV_2018_paper.pdf]
+- [Paper on REPN][https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Relationship_Proposal_Networks_CVPR_2017_paper.pdf]
 
 ----------
   
@@ -96,13 +95,15 @@ Artificial intelligence,Deep Learning , Neural networks , Python , Libraries suc
 
 
 ## Acknowledgements and References
-* [SRA VJTI](https://sravjti.in/) Eklavya 2023
-* Special thanks to our mentors [Prit Kanadiya] (https://github.com/PritK99) and [Raghav Agarval] (https://github.com/)
-* [Darknet for yolo object detection] (https://pjreddie.com/darknet/yolo/)
+* [SRA VJTI][https://sravjti.in/] Eklavya 2023
+* Special thanks to our mentors [Prit Kanadiya][https://github.com/PritK99] and [Raghav Agarwal][https://github.com/Raghav323]
+* [Darknet for yolo object detection][https://pjreddie.com/darknet/yolo/]
 
 
 
   
+
+
 
 
 
