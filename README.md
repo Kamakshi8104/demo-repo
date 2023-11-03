@@ -79,8 +79,8 @@ Artificial intelligence,Deep Learning , Neural networks , Python , Libraries suc
 ------------
 
 ## Courses Referred:
-- [Neural Networks and Deep Learning] (https://www.coursera.org/programs/vjti-cse-learning-program-batch-2022-2026-br5qt/learn/neural-networks-deep-learning?source=search)
-- [Convolutional Neural Networks] (https://www.coursera.org/learn/convolutional-neural-networks)
+- [Neural Networks and Deep Learning](https://www.coursera.org/programs/vjti-cse-learning-program-batch-2022-2026-br5qt/learn/neural-networks-deep-learning?source=search)
+- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
     
 ------------
   
@@ -96,8 +96,8 @@ Artificial intelligence,Deep Learning , Neural networks , Python , Libraries suc
 
 ## Acknowledgements and References
 * [SRA VJTI][https://sravjti.in/] Eklavya 2023
-* Special thanks to our mentors [Prit Kanadiya][https://github.com/PritK99] and [Raghav Agarwal][https://github.com/Raghav323]
-* [Darknet for yolo object detection][https://pjreddie.com/darknet/yolo/]
+* Special thanks to our mentors [Prit Kanadiya](https://github.com/PritK99) and [Raghav Agarwal](https://github.com/Raghav323)
+* [Darknet for yolo object detection](https://pjreddie.com/darknet/yolo/)
 
 
 
