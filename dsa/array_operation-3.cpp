@@ -1,4 +1,4 @@
-##include<iostream>
+#include<iostream>
 using namespace std;
 void input_array(int arr[],int size)
 {

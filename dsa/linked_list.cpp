@@ -182,7 +182,7 @@ class link_list1{
       p=start;
       while(p!=NULL){
         count++;
-        p=p=p->next;
+        p=p->next;
         
       }
       //cout<<"COUNT IS"<<count<<endl;
@@ -282,15 +282,16 @@ void reverse(){
           first->next=p;
           p->next=second;
         }
-        if(second->next==NULL && second->data<=p->data){
-          second->next=p;
-          p->next=NULL;
-        }
+        
         if(start->data>p->data){
           p->next=start;
           start=p;
         }
       }
+      if(second->next==NULL && second->data<=p->data){
+          second->next=p;
+          p->next=NULL;
+        }
 
     }
 
@@ -318,9 +319,10 @@ int main(){
     link.delete_random(3);
     link.display_list();
     link.rem_nth_last(10);*/
-    link.reverse();
+    //link.reverse();
+    //link.display_list();
+    link.insert_in_order();
     link.display_list();
-    
     
      
 }
